@@ -1,2 +1,2 @@
 while True:
-   print("Tüm Bİlgileriniz çalındı")
+   print("0day founded MetaMask by Anomaly-zero")
